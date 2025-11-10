@@ -209,7 +209,7 @@ Contributions welcome. Please open issues or PRs. Follow standard commit/message
 
 ## Contact
 
-- Website: https://zkbundle.org
-- Docs: https://docs.zkbundle.org
-- Twitter: @zkbundle
-- Discord: discord.gg/zkbundle
+- Website: https://zkbundle.fun
+- Docs: https://zkbundle.fun/docs
+- Twitter: https://x.com/zkbundle
+- Community: https://x.com/i/communities/1987645570974990411
